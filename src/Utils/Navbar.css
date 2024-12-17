@@ -1,0 +1,11 @@
+/* Navbar.css */
+.nav-link {
+    transition: color 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #ffffff !important;
+    background-color: #0056b3 !important;
+    border-radius: 5px;
+  }
+  
